@@ -3,4 +3,5 @@
 
 I love to program and I'm currently learning PYTHON.
 
-Ducks are cool.
+My projects so far:
+DackPad (GUI)
